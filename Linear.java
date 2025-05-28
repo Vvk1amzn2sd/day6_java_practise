@@ -3,7 +3,7 @@
 public class Linear {
     public static void main(String[] args) {
         int[] arr = {23,13,455,32,39};
-        int target = 23;
+        int target = 3333;
         System.out.println(linear(arr,target));
     }
 
