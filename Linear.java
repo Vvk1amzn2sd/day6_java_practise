@@ -1,4 +1,4 @@
-package Searching;
+// package Searching;
 
 public class Linear {
     public static void main(String[] args) {
